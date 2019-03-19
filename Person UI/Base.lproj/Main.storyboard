@@ -725,7 +725,7 @@
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
                             </textField>
-                            <slider toolTip="Use this to adjust your age" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="RBz-26-AH7">
+                            <slider verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="RBz-26-AH7">
                                 <rect key="frame" x="66" y="289" width="368" height="19"/>
                                 <sliderCell key="cell" state="on" alignment="left" maxValue="130" doubleValue="21" tickMarkPosition="above" sliderType="linear" id="MQE-Zv-Po4"/>
                             </slider>
