@@ -15,12 +15,5 @@ class PersonUIViewController: NSViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do view setup here.
-        
-        
     }
-    
-    #warning("figure out how to change the text view background color based on accent color of the MAC")
-    
-    #warning("understand how to do tool tips")
-    
 }
